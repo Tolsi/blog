@@ -1,1 +1,1 @@
-Sitemap: https://tolsi.github.io/tolsi-cv/sitemap.xml
+Sitemap: https://tolsi.github.io/blog/sitemap.xml
